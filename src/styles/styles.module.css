@@ -1,0 +1,15 @@
+.error {
+    color: red;
+}
+
+.inputError {
+    border: 2px solid red;
+}
+
+.activeFilter {
+    background-color: aqua;
+}
+
+.isDone{
+    opacity: 0.75;
+}
